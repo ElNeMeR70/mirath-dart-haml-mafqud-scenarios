@@ -1,0 +1,5 @@
+name: mirath_dart_haml_mafqud_scenarios
+description: "Contingent Heir Reserve Calculator (Unborn Haml & Missing Mafqud)"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
